@@ -145,3 +145,4 @@ Desktop.ini
 /mvnw.cmd
 /mvnw
 /.mvn/**
+/.mvn/wrapper/
